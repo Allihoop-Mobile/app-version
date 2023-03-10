@@ -12,7 +12,7 @@
 - Clubs/Channels: All channels overview: hide channels that you are already part of under the 'all channels' overview
 - Handle deeplink for community guides: support can open in announcement, other apps...</description>
             <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.2.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.2.3" sparkle:os="android" />
         </item>
         <item>
             <title>Version 1.2.3</title>
@@ -24,7 +24,7 @@
 - Clubs/Channels: All channels overview: hide channels that you are already part of under the 'all channels' overview
 - Handle deeplink for community guides: support can open in announcement, other apps...</description>
             <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.2.2" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.2.3" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
