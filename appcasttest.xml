@@ -3,28 +3,19 @@
     <channel>
         <title>Allihoop</title>
         <item>
-            <title>Version 1.2.3</title>
-            <description>- Change reaction list in the app.
-- Update UI clubs discovery
-- Fix issue events: adding co-organizer doesn't work
-- Show cluster name
-- Allow copying text in posts, comments and event descriptions.
-- Clubs/Channels: All channels overview: hide channels that you are already part of under the 'all channels' overview
-- Handle deeplink for community guides: support can open in announcement, other apps...</description>
+            <title>Version 1.2.5</title>
+            <description>- Facility v2
+- Channel v2</description>
             <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.2.3" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.2.5" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.2.3</title>
-            <description>- Change reaction list in the app.
-- Update UI clubs discovery
-- Fix issue events: adding co-organizer doesn't work
-- Show cluster name
-- Allow copying text in posts, comments and event descriptions.
-- Clubs/Channels: All channels overview: hide channels that you are already part of under the 'all channels' overview
-- Handle deeplink for community guides: support can open in announcement, other apps...</description>
+            <title>Version 1.2.5</title>
+            <description>
+- Facility v2
+- Channel v2</description>
             <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.2.3" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.2.5" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
