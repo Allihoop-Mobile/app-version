@@ -13,10 +13,12 @@
             </sparkle:tags>
         </item>
         <item>
-            <title>Version 1.2.7</title>
-            <description>Fix issues with timeslot between 21:00-24:00</description>
-            <pubDate>Tue, 02 May 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.2.7" sparkle:os="android" />
+            <title>Version 1.2.8</title>
+            <description>Allow for more than two users to be co-organizers of an event
+Show unread number in channels
+Fix bugs</description>
+            <pubDate>Wed, 04 July 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.2.8" sparkle:os="android" />
         </item>
         <item>
             <title>Version 1.2.6</title>
