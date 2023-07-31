@@ -25,20 +25,18 @@
             </sparkle:tags>
         </item>
         <item>
-            <title>Version 1.2.8</title>
-            <description>Allow for more than two users to be co-organizers of an event
-Show unread number in channels
+            <title>Version 1.3.0</title>
+            <description>Integrate Intercom
 Fix bugs</description>
-            <pubDate>Mon, 05 Jul 2023 05:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.2.8" sparkle:os="android" />
+            <pubDate>Sun, 16 Jul 2023 05:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.3.0" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.2.8</title>
-            <description>Allow for more than two users to be co-organizers of an event
-Show unread number in channels
+            <title>Version 1.3.0</title>
+            <description>Integrate Intercom
 Fix bugs</description>
-            <pubDate>Mon, 05 Jul 2023 05:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.2.8" sparkle:os="iOS" />
+            <pubDate>Sun, 16 Jul 2023 05:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.3.0" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
