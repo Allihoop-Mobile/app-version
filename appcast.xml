@@ -25,19 +25,18 @@
             </sparkle:tags>
         </item>
         <item>
-            <title>Version 1.3.2</title>
-            <description>Integrate open support link to open Intercom
+            <title>Version 1.4.2</title>
+            <description>Update new UI
 Fix bugs</description>
-            <pubDate>Wed, 23 Aug 2023 05:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.3.2" sparkle:os="android" />
+            <pubDate>Tue, 14 Nov 2023 05:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.4.2" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.3.2</title>
-            <description>Integrate open support link to open Intercom
-                Fix bug open link in Intercom
+            <title>Version 1.4.2</title>
+            <description>Update new UI
 Fix bugs</description>
-            <pubDate>Wed, 23 Aug 2023 05:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.3.2" sparkle:os="iOS" />
+            <pubDate>Tue, 14 Nov 2023 05:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.4.2" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
