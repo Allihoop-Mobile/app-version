@@ -3,40 +3,46 @@
     <channel>
         <title>Allihoop</title>
         <item>
-            <title>Version 1.2.6</title>
-            <description>- channels improvement
-- facility booking improvement
-- bug fixing</description>
-            <pubDate>Mon, 15 May 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.2.6" sparkle:os="android" />
+            <title>Version 1.5.0</title>
+            <description>
+New UI: Enjoy a modern and intuitive interface for an enhanced user experience.
+Onboarding Flow: Introducing a new onboarding process for a seamless introduction to our features.
+Fixes: We've resolved various issues, ensuring a smoother and more stable application.</description>
+            <pubDate>Fri, 12 Jan 2024 3:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.5.0" sparkle:os="android" />
             <sparkle:tags>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
         </item>
         <item>
-            <title>Version 1.2.6</title>
-            <description>- channels improvement
-- facility booking improvement
-- bug fixing</description>
-            <pubDate>Mon, 15 May 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.2.6" sparkle:os="iOS" />
+            <title>Version 1.5.0</title>
+            <description>
+New UI: Enjoy a modern and intuitive interface for an enhanced user experience.
+Onboarding Flow: Introducing a new onboarding process for a seamless introduction to our features.
+Fixes: We've resolved various issues, ensuring a smoother and more stable application.</description>
+            <pubDate>Fri, 12 Jan 2024 3:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.5.0" sparkle:os="iOS" />
             <sparkle:tags>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
         </item>
         <item>
-            <title>Version 1.4.2</title>
-            <description>Update new UI
-Fix bugs</description>
-            <pubDate>Tue, 14 Nov 2023 05:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.4.2" sparkle:os="android" />
+            <title>Version 1.5.0</title>
+            <description>
+New UI: Enjoy a modern and intuitive interface for an enhanced user experience.
+Onboarding Flow: Introducing a new onboarding process for a seamless introduction to our features.
+Fixes: We've resolved various issues, ensuring a smoother and more stable application.</description>
+            <pubDate>Fri, 12 Jan 2024 3:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.5.0" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.4.2</title>
-            <description>Update new UI
-Fix bugs</description>
-            <pubDate>Tue, 14 Nov 2023 05:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.4.2" sparkle:os="iOS" />
+            <title>Version 1.5.0</title>
+            <description>
+New UI: Enjoy a modern and intuitive interface for an enhanced user experience.
+Onboarding Flow: Introducing a new onboarding process for a seamless introduction to our features.
+Fixes: We've resolved various issues, ensuring a smoother and more stable application.</description>
+            <pubDate>Fri, 12 Jan 2024 3:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.5.0" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
