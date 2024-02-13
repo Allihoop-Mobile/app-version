@@ -3,44 +3,46 @@
     <channel>
         <title>Allihoop</title>
         <item>
-            <title>Version 1.5.0</title>
+            <title>Version 1.5.2</title>
             <description>
-New UI: Enjoy a modern and intuitive interface for an enhanced user experience.
-Onboarding Flow: Introducing a new onboarding process for a seamless introduction to our features.
-Fixes: We've resolved various issues, ensuring a smoother and more stable application.</description>
-            <pubDate>Fri, 12 Jan 2024 3:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.5.0" sparkle:os="android" />
+- Added facility version 3
+- Bug fixes
+- Updated referral feature</description>
+            <pubDate>Tue, 13 Feb 2024 01:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.5.2" sparkle:os="android" />
             <sparkle:tags>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
         </item>
         <item>
-            <title>Version 1.5.0</title>
+            <title>Version 1.5.2</title>
             <description>
-New UI: Enjoy a modern and intuitive interface for an enhanced user experience.
-Onboarding Flow: Introducing a new onboarding process for a seamless introduction to our features.
-Fixes: We've resolved various issues, ensuring a smoother and more stable application.</description>
-            <pubDate>Fri, 12 Jan 2024 3:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.5.0" sparkle:os="iOS" />
+- Added facility version 3
+- Bug fixes
+- Updated referral feature</description>
+            <pubDate>Tue, 13 Feb 2024 01:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.5.2" sparkle:os="iOS" />
             <sparkle:tags>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
         </item>
         <item>
-            <title>Version 1.5.1</title>
+            <title>Version 1.5.2</title>
             <description>
-Added referral feature
-Bugs fixing</description>
-            <pubDate>Fri, 21 Jan 2024 3:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.5.1" sparkle:os="android" />
+- Added facility version 3
+- Bug fixes
+- Updated referral feature</description>
+            <pubDate>Tue, 13 Feb 2024 01:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.5.2" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.5.1</title>
+            <title>Version 1.5.2</title>
             <description>
-Added referral feature
-Bugs fixing</description>
-            <pubDate>Fri, 21 Jan 2024 3:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.5.1" sparkle:os="iOS" />
+- Added facility version 3
+- Bug fixes
+- Updated referral feature</description>
+            <pubDate>Tue, 13 Feb 2024 01:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.5.2" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
