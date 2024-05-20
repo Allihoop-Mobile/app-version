@@ -27,7 +27,7 @@
         <item>
             <title>Version 1.5.7</title>
             <description>
-- Add nationality filter in neighbors filter screen
+- Add event recurrring
 - Bug fixes</description>
             <pubDate>Mon, 20 May 2024 02:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.allihoop.app" sparkle:version="1.5.7" sparkle:os="android" />
@@ -35,7 +35,7 @@
         <item>
             <title>Version 1.5.7</title>
             <description>
-- Add nationality filter in neighbors filter screen
+- Add event recurrring
 - Bug fixes</description>
             <pubDate>Mon, 20 May 2024 02:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/allihoop-community/id1639312103" sparkle:version="1.5.7" sparkle:os="iOS" />
